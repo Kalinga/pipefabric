@@ -1,0 +1,84 @@
+Running tests...
+Test project /home/kalinga/GIT/pipefabric/build
+      Start  1: FlowTest
+ 1/39 Test  #1: FlowTest .........................   Passed    0.00 sec
+      Start  2: TupleTest
+ 2/39 Test  #2: TupleTest ........................   Passed    0.04 sec
+      Start  3: TimestampHelperTest
+ 3/39 Test  #3: TimestampHelperTest ..............   Passed    0.01 sec
+      Start  4: StreamElementTraitsTest
+ 4/39 Test  #4: StreamElementTraitsTest ..........   Passed    0.00 sec
+      Start  5: SourceTest
+ 5/39 Test  #5: SourceTest .......................   Passed    0.00 sec
+      Start  6: SinkTest
+ 6/39 Test  #6: SinkTest .........................   Passed    0.00 sec
+      Start  7: SignalTest
+ 7/39 Test  #7: SignalTest .......................   Passed    0.00 sec
+      Start  8: SelectChannelParametersTest
+ 8/39 Test  #8: SelectChannelParametersTest ......   Passed    0.00 sec
+      Start  9: ChannelGroupTest
+ 9/39 Test  #9: ChannelGroupTest .................   Passed    0.00 sec
+      Start 10: TextFileSourceTest
+10/39 Test #10: TextFileSourceTest ...............   Passed    0.04 sec
+      Start 11: MemorySourceTest
+11/39 Test #11: MemorySourceTest .................   Passed    0.04 sec
+      Start 12: RESTSourceTest
+12/39 Test #12: RESTSourceTest ...................   Passed    1.02 sec
+      Start 13: MapTest
+13/39 Test #13: MapTest ..........................   Passed    0.00 sec
+      Start 14: WhereTest
+14/39 Test #14: WhereTest ........................   Passed    0.00 sec
+      Start 15: NotifyTest
+15/39 Test #15: NotifyTest .......................   Passed    0.00 sec
+      Start 16: QueueTest
+16/39 Test #16: QueueTest ........................   Passed    2.01 sec
+      Start 17: TupleExtractorTest
+17/39 Test #17: TupleExtractorTest ...............   Passed    0.00 sec
+      Start 18: WriterTest
+18/39 Test #18: WriterTest .......................   Passed    0.01 sec
+      Start 19: WindowTest
+19/39 Test #19: WindowTest .......................   Passed    0.01 sec
+      Start 20: SHJoinTest
+20/39 Test #20: SHJoinTest .......................   Passed    0.01 sec
+      Start 21: TopologyTest
+21/39 Test #21: TopologyTest .....................   Passed    9.02 sec
+      Start 22: TopologyJoinTest
+22/39 Test #22: TopologyJoinTest .................   Passed    2.52 sec
+      Start 23: TopologyAggregationTest
+23/39 Test #23: TopologyAggregationTest ..........   Passed    4.01 sec
+      Start 24: TopologyGroupByTest
+24/39 Test #24: TopologyGroupByTest ..............   Passed    6.02 sec
+      Start 25: AggregateFuncTest
+25/39 Test #25: AggregateFuncTest ................   Passed    0.01 sec
+      Start 26: AggregationTest
+26/39 Test #26: AggregationTest ..................   Passed    0.01 sec
+      Start 27: GroupedAggregationTest
+27/39 Test #27: GroupedAggregationTest ...........   Passed    0.01 sec
+      Start 28: ZMQSourceTest
+28/39 Test #28: ZMQSourceTest ....................   Passed    6.02 sec
+      Start 29: SeqCEPTest
+29/39 Test #29: SeqCEPTest .......................   Passed    0.06 sec
+      Start 30: ToTableTest
+30/39 Test #30: ToTableTest ......................   Passed    0.00 sec
+      Start 31: FromTableTest
+31/39 Test #31: FromTableTest ....................   Passed    2.00 sec
+      Start 32: ContextTest
+32/39 Test #32: ContextTest ......................   Passed    0.01 sec
+      Start 33: CEPDSLTest
+33/39 Test #33: CEPDSLTest .......................   Passed    0.00 sec
+      Start 34: ZMQPubSubTest
+34/39 Test #34: ZMQPubSubTest ....................   Passed    4.04 sec
+      Start 35: PartitionTest
+35/39 Test #35: PartitionTest ....................   Passed    1.01 sec
+      Start 36: BarrierTest
+36/39 Test #36: BarrierTest ......................   Passed    3.01 sec
+      Start 37: StreamGeneratorTest
+37/39 Test #37: StreamGeneratorTest ..............   Passed    0.01 sec
+      Start 38: TuplifierTest
+38/39 Test #38: TuplifierTest ....................   Passed    0.01 sec
+      Start 39: HashMapTableTest
+39/39 Test #39: HashMapTableTest .................   Passed    0.06 sec
+
+100% tests passed, 0 tests failed out of 39
+
+Total Test time (real) =  41.11 sec
